@@ -1,0 +1,9 @@
+hw_2\guiconf.o: ../Src/GUIConf.c
+hw_2\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI.h
+hw_2\guiconf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+hw_2\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI_ConfDefaults.h
+hw_2\guiconf.o: ../Inc/GUIConf.h
+hw_2\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI_Type.h
+hw_2\guiconf.o: ../Middlewares/ST/STemWin/inc/LCD.h
+hw_2\guiconf.o: ../Middlewares/ST/STemWin/inc/Global.h
+hw_2\guiconf.o: ../Middlewares/ST/STemWin/inc/GUI_Version.h

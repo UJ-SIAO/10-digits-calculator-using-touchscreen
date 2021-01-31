@@ -1,0 +1,9 @@
+hw_2\gui_x.o: ../Middlewares/ST/STemWin/OS/GUI_X.c
+hw_2\gui_x.o: ../Middlewares/ST/STemWin/inc/GUI.h
+hw_2\gui_x.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+hw_2\gui_x.o: ../Middlewares/ST/STemWin/inc/GUI_ConfDefaults.h
+hw_2\gui_x.o: ../STemWin/Target/GUIConf.h
+hw_2\gui_x.o: ../Middlewares/ST/STemWin/inc/GUI_Type.h
+hw_2\gui_x.o: ../Middlewares/ST/STemWin/inc/LCD.h
+hw_2\gui_x.o: ../Middlewares/ST/STemWin/inc/Global.h
+hw_2\gui_x.o: ../Middlewares/ST/STemWin/inc/GUI_Version.h
